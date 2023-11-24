@@ -178,6 +178,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--navybluemodal);
   text-align: center;
+  margin-bottom: 72px;
 }
 
 .features-section-list {
@@ -207,6 +208,13 @@ body {
 .services-section {
   background-color: var(--white);
   padding-bottom: 120px;
+}
+
+.container .list {
+  gap: 24px;
+}
+.service-list-item {
+  width: calc((100% - 48px) / 3);
 }
 
 /* Section 4 */
