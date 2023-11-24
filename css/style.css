@@ -226,11 +226,20 @@ body {
 .team-list-item {
   list-style: none;
   background-color: var(--white);
+  border-radius: 0 0 4px 4px;
+}
+
+.team-name {
+  padding: 32px 0;
 }
 
 .team-section .item-title {
   text-align: center;
   margin-bottom: 8px;
+}
+
+.team-section .item-text {
+  text-align: center;
 }
 
 /* footer Section */
