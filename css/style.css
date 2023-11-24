@@ -228,6 +228,11 @@ body {
   background-color: var(--white);
 }
 
+.team-section .item-title {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
 /* footer Section */
 .footer {
   background-color: var(--navyblue);
