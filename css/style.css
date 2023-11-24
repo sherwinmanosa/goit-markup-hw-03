@@ -90,7 +90,6 @@ body {
 
 .nav-list-item {
   list-style: none;
-  padding: 24px 0;
 }
 
 .nav-list-item-link {
@@ -102,6 +101,7 @@ body {
   color: var(--navyblue);
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 
 .nav-list-item-link:hover,
