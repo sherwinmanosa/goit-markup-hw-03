@@ -1,3 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: var(--slate);
@@ -21,6 +26,12 @@ body {
 /* HEADER SECTION */
 .header {
   background-color: var(--white);
+  display: flex;
+  width: 1440px;
+  height: 72px;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid var(--cornerflower);
 }
 
 .logo {
@@ -31,6 +42,9 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris);
+  display: inline-flex;
+  height: 24px;
+  align-items: center;
 }
 
 .nav-logo-span {
@@ -40,6 +54,12 @@ body {
   font-style: normal;
   font-weight: 800;
   line-height: 1.17;
+}
+
+.nav .list {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
 }
 
 .link {
