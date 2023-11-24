@@ -245,6 +245,7 @@ body {
 /* footer Section */
 .footer {
   background-color: var(--navyblue);
+  padding: 100px 0;
 }
 
 .footer-logo-span-web {
@@ -268,6 +269,11 @@ body {
   color: var(--iris);
 }
 
+.footer .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
 .footer-logo-span {
   color: var(--cloud);
 }
@@ -279,6 +285,7 @@ body {
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
   color: var(--cloud);
+  max-width: 264px;
 }
 
 /* Portfolio */
