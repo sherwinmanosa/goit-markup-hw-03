@@ -181,8 +181,7 @@ body {
 }
 
 .feature-section-title {
-  position: absolute;
-  visibility: hidden;
+  display: none;
 }
 
 .features-section-list {
