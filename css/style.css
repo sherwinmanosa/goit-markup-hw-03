@@ -168,6 +168,7 @@ body {
 /* Section 2 */
 .features-section {
   background-color: var(--white);
+  padding: 120px 0;
 }
 
 .section-title {
@@ -177,6 +178,14 @@ body {
   letter-spacing: 0.02em;
   color: var(--navybluemodal);
   text-align: center;
+}
+
+.feature-section-title {
+  visibility: hidden;
+}
+
+.features-section-list {
+  gap: 24px;
 }
 
 .item-title {
@@ -198,9 +207,6 @@ body {
   color: var(--slate);
 }
 
-.feature-section {
-  padding: 120px 0;
-}
 /* Section 3 */
 .services-section {
   background-color: var(--white);
