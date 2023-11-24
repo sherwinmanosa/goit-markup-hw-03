@@ -76,6 +76,10 @@ body {
   padding: 24px 0;
 }
 
+.nav-list-item link {
+  padding: 24px 0;
+}
+
 .link {
   text-decoration: none;
 }
@@ -105,12 +109,14 @@ body {
 }
 .address {
   font-style: normal;
+  display: flex;
 }
 
 .address-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
+  gap: 40px;
 }
 
 .address-link:hover,
