@@ -198,6 +198,9 @@ body {
   color: var(--slate);
 }
 
+.feature-section {
+  padding: 120px 0;
+}
 /* Section 3 */
 .services-section {
   background-color: var(--white);
