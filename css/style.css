@@ -181,6 +181,7 @@ body {
 }
 
 .feature-section-title {
+  position: absolute;
   visibility: hidden;
 }
 
