@@ -220,6 +220,7 @@ body {
 /* Section 4 */
 .team-section {
   background-color: var(--cloud);
+  padding: 120px 0;
 }
 
 .team-list-item {
