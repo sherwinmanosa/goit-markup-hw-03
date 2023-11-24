@@ -34,6 +34,18 @@ body {
   border-bottom: 1px solid var(--cornerflower);
 }
 
+.header-container {
+  display: flex;
+  width: 1158px;
+  margin: 0;
+  padding: 0 15px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -45,6 +57,7 @@ body {
   display: inline-flex;
   height: 24px;
   align-items: center;
+  margin-right: 76px;
 }
 
 .nav-logo-span {
@@ -57,9 +70,10 @@ body {
 }
 
 .nav .list {
-  display: inline-flex;
+  display: flex;
   align-items: flex-start;
   gap: 40px;
+  padding: 24px 0;
 }
 
 .link {
