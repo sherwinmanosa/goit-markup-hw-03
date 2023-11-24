@@ -248,6 +248,10 @@ body {
   padding: 100px 0;
 }
 
+.footer .container {
+  display: inline-block;
+}
+
 .footer-logo-span-web {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -270,7 +274,6 @@ body {
 }
 
 .footer .logo {
-  display: inline-block;
   margin-bottom: 16px;
 }
 
