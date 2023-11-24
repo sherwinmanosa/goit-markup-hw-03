@@ -180,10 +180,6 @@ body {
   text-align: center;
 }
 
-.feature-section-title {
-  display: none;
-}
-
 .features-section-list {
   gap: 24px;
 }
@@ -210,6 +206,7 @@ body {
 /* Section 3 */
 .services-section {
   background-color: var(--white);
+  padding-bottom: 120px;
 }
 
 /* Section 4 */
