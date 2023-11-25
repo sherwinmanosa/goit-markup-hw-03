@@ -292,8 +292,9 @@ body {
 .main-section {
   padding: 96px 0 120px 0;
 }
-.menu-list {
-  list-style: none;
+
+.portfolio-main .list {
+  justify-content: center;
 }
 
 .button {
