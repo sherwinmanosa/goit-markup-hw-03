@@ -307,6 +307,9 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  padding: 12px 24px;
+  border: 1px solid var(--cornerflower);
+  border-radius: 4px;
 }
 
 .button:hover,
@@ -314,4 +317,5 @@ body {
   background-color: var(--ocean);
   color: var(--white);
   cursor: pointer;
+  border: 1px solid transparent;
 }
