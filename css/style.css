@@ -78,7 +78,11 @@ body {
 
 .nav-list-item {
   padding: 24px 0;
-  gap: 40px;
+  margin-right: 40px;
+  margin-right: 0;
+}
+.nav-list-item:last-child {
+  margin-right: 0;
 }
 
 .link {
