@@ -72,17 +72,10 @@ body {
 .nav .list {
   display: flex;
   align-items: flex-start;
-
-  padding: 24px 0;
 }
 
 .nav-list-item {
   padding: 24px 0;
-  margin-right: 40px;
-  margin-right: 0;
-}
-.nav-list-item:last-child {
-  margin-right: 0;
 }
 
 .link {
