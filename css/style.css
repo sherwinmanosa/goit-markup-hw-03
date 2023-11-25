@@ -319,3 +319,13 @@ body {
   cursor: pointer;
   border: 1px solid transparent;
 }
+
+.application-category {
+  padding: 32px 16px;
+  border: 1px solid var(--cornerflower);
+  border-top: none;
+}
+
+.application-category .item-title {
+  margin-bottom: 8px;
+}
