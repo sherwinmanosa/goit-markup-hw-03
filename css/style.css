@@ -72,12 +72,13 @@ body {
 .nav .list {
   display: flex;
   align-items: flex-start;
-  gap: 40px;
+
   padding: 24px 0;
 }
 
 .nav-list-item {
   padding: 24px 0;
+  gap: 40px;
 }
 
 .link {
