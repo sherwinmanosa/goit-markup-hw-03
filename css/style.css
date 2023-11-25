@@ -210,6 +210,10 @@ body {
   padding-bottom: 120px;
 }
 
+img {
+  display: block;
+}
+
 .container .list {
   gap: 24px;
 }
