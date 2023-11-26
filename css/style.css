@@ -382,3 +382,10 @@ img {
 .application-category .item-title {
   margin-bottom: 8px;
 }
+
+.button {
+  margin-right: 24px;
+}
+.button:last-child {
+  margin-right: 0;
+}
