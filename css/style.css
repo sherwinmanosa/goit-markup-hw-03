@@ -205,6 +205,10 @@ body {
   gap: 24px;
 }
 
+.features-list-item .item-title:first-child {
+  width: calc((100% - 72px) / 4);
+}
+
 .item-title {
   font-family: Roboto;
   font-size: 20px;
