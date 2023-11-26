@@ -383,9 +383,9 @@ img {
   margin-bottom: 8px;
 }
 
-.portfolio-main .button {
+.project-card {
   margin-right: 24px;
 }
-.portfolio-main .button:last-child {
+.project-card:last-child {
   margin-right: 0;
 }
