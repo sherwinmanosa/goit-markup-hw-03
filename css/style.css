@@ -354,7 +354,7 @@ img {
   border: 1px solid transparent;
 }
 
-.portfolio-main .link {
+.main-section .project-card {
   width: calc((100% - 48px) / 3);
 }
 
