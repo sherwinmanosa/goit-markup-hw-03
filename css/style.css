@@ -203,7 +203,14 @@ body {
 
 .features-section-list {
   gap: 24px;
+}
+
+.features-list-item .item-text:first-child {
   width: calc((100% - 72px) / 4);
+}
+
+.features-list-item .item-title {
+  margin-bottom: 8px;
 }
 
 .item-title {
