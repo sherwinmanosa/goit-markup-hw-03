@@ -196,6 +196,7 @@ body {
 
 .features-section-list {
   gap: 24px;
+  display: block;
 }
 
 .item-title {
