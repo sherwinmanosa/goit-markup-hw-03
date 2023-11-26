@@ -354,7 +354,7 @@ img {
   border: 1px solid transparent;
 }
 
-.main-section .project-card {
+.project-card .link {
   width: calc((100% - 48px) / 3);
 }
 
