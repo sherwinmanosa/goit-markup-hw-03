@@ -180,6 +180,10 @@ body {
   padding: 120px 0;
 }
 
+.features-section .section-title {
+  display: none;
+}
+
 .section-title {
   font-size: 36px;
   line-height: 1.11;
