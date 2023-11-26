@@ -205,7 +205,7 @@ body {
   gap: 24px;
 }
 
-.features-list-item .item-text:first-child {
+.features-list-item {
   width: calc((100% - 72px) / 4);
 }
 
