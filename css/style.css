@@ -280,6 +280,10 @@ img {
   padding: 100px 0;
 }
 
+.footer .container {
+  display: inline-block;
+}
+
 .footer-logo-span-web {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -352,10 +356,6 @@ img {
   color: var(--white);
   cursor: pointer;
   border: 1px solid transparent;
-}
-
-.portfolio-main .project-card {
-  width: calc((100% - 48px) / 3);
 }
 
 .application-category {
