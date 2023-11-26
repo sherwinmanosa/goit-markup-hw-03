@@ -122,6 +122,13 @@ body {
   color: var(--slate);
 }
 
+.address-list-item {
+  margin-right: 40px;
+}
+.address-list-item:last-child {
+  margin-right: 0;
+}
+
 .address-link:hover,
 .address-link:focus {
   color: var(--ocean);
