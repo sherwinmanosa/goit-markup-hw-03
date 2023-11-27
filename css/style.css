@@ -36,7 +36,8 @@ body {
 
 .container {
   display: flex;
-  width: 1158px;
+  /* width: 1158px; */
+  width: 1440px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -282,7 +283,7 @@ img {
   padding: 100px 0;
 }
 
-.footer .container .logo {
+.footer .container {
   display: inline-block;
 }
 
