@@ -283,7 +283,7 @@ img {
 }
 
 .footer .logo {
-  display: inline-block;
+  display: inline-flex;
 }
 
 .footer-logo-span-web {
