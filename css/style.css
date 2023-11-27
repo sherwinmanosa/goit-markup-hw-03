@@ -282,7 +282,7 @@ img {
   padding: 100px 0;
 }
 
-.footer .container {
+.footer .logo {
   display: inline-block;
 }
 
@@ -390,9 +390,9 @@ img {
   margin-right: 0;
 }
 
-.project-card {
+/* .project-card {
   margin-right: 24px;
 }
 .project-card:last-child {
   margin-right: 0;
-}
+} */
