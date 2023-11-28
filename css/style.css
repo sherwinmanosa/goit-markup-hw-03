@@ -341,6 +341,7 @@ img {
 
 .main-section {
   padding: 96px 0 120px 0;
+  max-width: 100%;
 }
 
 .portfolio-main h1 {
@@ -361,6 +362,10 @@ img {
   flex-wrap: wrap;
 }
 
+.button-menu {
+  display: flex;
+}
+
 .button {
   color: var(--iris);
   background-color: var(--cloud);
@@ -373,12 +378,11 @@ img {
   padding: 12px 24px;
   border: 1px solid var(--cornerflower);
   border-radius: 4px;
+}
+/* 
+.button-menu .list:not(:last-child) {
   margin-right: 24px;
-}
-
-.button:last-child {
-  margin-right: 0;
-}
+} */
 
 .button:hover,
 .button:focus {
