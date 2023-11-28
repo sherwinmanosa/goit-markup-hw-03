@@ -283,8 +283,8 @@ img {
   padding: 100px 0;
 }
 
-.footer .container {
-  display: inline-block;
+.footer .logo .link {
+  display: block;
 }
 
 .footer-logo-span-web {
