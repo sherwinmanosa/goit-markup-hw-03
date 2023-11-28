@@ -376,7 +376,7 @@ img {
   margin-right: 24px;
 }
 
-.button-lastchild {
+.button:last-child {
   margin-right: 0;
 }
 
