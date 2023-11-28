@@ -403,10 +403,10 @@ img {
   margin-right: 0;
 }
 
-.portfolio-main .list {
+.portfolio-main .list .project-card-list {
   margin-right: 24px;
 }
-.portfolio-main .list:last-child {
+.portfolio-main .list .project-card-list:last-child {
   margin-right: 0;
 }
 .project-card:nth-last-child(-n + 3) {
