@@ -381,12 +381,12 @@ img {
   border: 1px solid var(--cornerflower);
   border-radius: 4px;
 }
-.portfolio-main .button {
+/* .portfolio-main .button {
   margin-right: 24px;
 }
 .portfolio-main .button:last-child {
   margin-right: 0;
-}
+} */
 
 .button:hover,
 .button:focus {
