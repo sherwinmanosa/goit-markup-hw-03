@@ -203,10 +203,13 @@ body {
   text-align: center;
   margin-bottom: 72px;
 }
-
-/* .features-section-list {
-  gap: 24px;
-} */
+/* checking */
+.features-section-list {
+  margin-right: 24px;
+}
+.features-section-list:last-child {
+  margin-right: 0;
+}
 
 .features-list-item {
   width: calc((100% - 72px) / 4);
