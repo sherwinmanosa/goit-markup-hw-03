@@ -245,9 +245,9 @@ img {
   display: block;
 }
 
-.container .list {
+/* .container .list {
   gap: 24px;
-}
+} */
 .service-list-item {
   width: calc((100% - 48px) / 3);
 }
