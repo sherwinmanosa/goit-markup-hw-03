@@ -90,7 +90,7 @@ body {
 .list {
   list-style: none;
   display: flex;
-  gap: 40px;
+  /* gap: 40px; */
 }
 
 .nav-list-item {
