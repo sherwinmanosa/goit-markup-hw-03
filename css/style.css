@@ -335,6 +335,10 @@ img {
 
 /* Portfolio */
 
+.portfolio-main .container {
+  display: inline-block;
+}
+
 .main-section {
   padding: 96px 0 120px 0;
 }
@@ -357,7 +361,7 @@ img {
   flex-wrap: wrap;
 }
 
-.button-menu .list {
+.button-menu {
   margin-right: 24px;
 }
 .button-menu .list:last-child {
