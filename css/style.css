@@ -361,12 +361,12 @@ img {
   flex-wrap: wrap;
 }
 
-.button-menu {
+/* .button-menu {
   margin-right: 24px;
 }
 .button-menu .list:last-child {
   margin-right: 0;
-}
+} */
 
 .button {
   color: var(--iris);
