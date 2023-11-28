@@ -341,7 +341,6 @@ img {
 
 .main-section {
   padding: 96px 0 120px 0;
-  max-width: 100%;
 }
 
 .portfolio-main h1 {
@@ -364,6 +363,8 @@ img {
 
 .button-menu {
   display: flex;
+  gap: 24px;
+  justify-content: center;
 }
 
 .button {
@@ -379,10 +380,6 @@ img {
   border: 1px solid var(--cornerflower);
   border-radius: 4px;
 }
-/* 
-.button-menu .list:not(:last-child) {
-  margin-right: 24px;
-} */
 
 .button:hover,
 .button:focus {
