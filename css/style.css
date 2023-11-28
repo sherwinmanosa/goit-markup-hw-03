@@ -403,11 +403,11 @@ img {
   margin-right: 0;
 }
 
-.project-card {
+.portfolio-main .list {
   margin-right: 24px;
   margin-bottom: 48px;
 }
-.project-card:last-child {
+.portfolio-main .list:last-child {
   margin-right: 0;
 }
 .project-card:nth-last-child(-n + 3) {
