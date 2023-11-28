@@ -372,7 +372,10 @@ img {
   border-radius: 4px;
   margin-right: 24px;
 }
-.button:last-child {
+.portfolio-main .button-list {
+  margin-right: 24px;
+}
+.portfolio-main .button-list:last-child {
   margin-right: 0;
 }
 
