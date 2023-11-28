@@ -361,13 +361,6 @@ img {
   flex-wrap: wrap;
 }
 
-/* .button-menu {
-  margin-right: 24px;
-}
-.button-menu .list:last-child {
-  margin-right: 0;
-} */
-
 .button {
   color: var(--iris);
   background-color: var(--cloud);
@@ -380,6 +373,11 @@ img {
   padding: 12px 24px;
   border: 1px solid var(--cornerflower);
   border-radius: 4px;
+  margin-right: 24px;
+}
+
+.button-lastchild {
+  margin-right: 0;
 }
 
 .button:hover,
