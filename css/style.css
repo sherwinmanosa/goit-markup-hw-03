@@ -249,8 +249,8 @@ img {
   gap: 24px;
 } */
 .service-list-item {
-  width: calc((100% - 48px) / 3);
   margin-right: 24px;
+  width: calc((100% - 48px) / 3);
 }
 .service-list-item:last-child {
   margin-right: 24px;
