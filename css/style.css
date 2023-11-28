@@ -204,10 +204,10 @@ body {
   margin-bottom: 72px;
 }
 /* checking */
-.features-section-list {
+.features-list-item {
   margin-right: 24px;
 }
-.features-section-list:last-child {
+.features-list-item:last-child {
   margin-right: 0;
 }
 
