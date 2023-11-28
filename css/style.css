@@ -90,7 +90,6 @@ body {
 .list {
   list-style: none;
   display: flex;
-  /* gap: 40px; */
 }
 
 .nav-list-item {
@@ -358,10 +357,10 @@ img {
   flex-wrap: wrap;
 }
 
-.button-menu {
+.button-menu .list {
   margin-right: 24px;
 }
-.button-menu:last-child {
+.button-menu .list:last-child {
   margin-right: 0;
 }
 
@@ -402,13 +401,6 @@ img {
 .application-category .item-title {
   margin-bottom: 8px;
 }
-
-/* .portfolio-main .button {
-  margin-right: 24px;
-}
-.portfolio-main .button:last-child {
-  margin-right: 0;
-} */
 
 /* .portfolio-main .list .project-card-list {
   margin-right: 24px;
