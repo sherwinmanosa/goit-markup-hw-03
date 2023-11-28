@@ -359,10 +359,10 @@ img {
   justify-content: center;
   margin-bottom: 72px;
   flex-wrap: wrap;
+  margin-right: 24px;
 }
-
-.project-card-list {
-  margin: 156px;
+.portfolio-main .list:last-child {
+  margin-right: 0;
 }
 
 .button-menu {
