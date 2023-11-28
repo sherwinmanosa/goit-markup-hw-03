@@ -203,16 +203,13 @@ body {
   text-align: center;
   margin-bottom: 72px;
 }
-/* checking */
+
 .features-list-item {
+  width: calc((100% - 72px) / 4);
   margin-right: 24px;
 }
 .features-list-item:last-child {
   margin-right: 0;
-}
-
-.features-list-item {
-  width: calc((100% - 72px) / 4);
 }
 
 .features-list-item .item-title {
