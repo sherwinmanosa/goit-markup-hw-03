@@ -358,6 +358,13 @@ img {
   flex-wrap: wrap;
 }
 
+.button-menu {
+  margin-right: 24px;
+}
+.button-menu:last-child {
+  margin-right: 0;
+}
+
 .button {
   color: var(--iris);
   background-color: var(--cloud);
