@@ -325,6 +325,9 @@ img {
 .footer .logo {
   margin-bottom: 16px;
 }
+.footer .container {
+  display: inline-block;
+}
 
 .footer-logo-span {
   color: var(--cloud);
