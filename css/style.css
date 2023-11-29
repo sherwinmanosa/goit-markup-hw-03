@@ -301,11 +301,6 @@ img {
   padding: 100px 0;
 }
 
-/* .footer .logo .link {
-  display: block;
-  margin-bottom: 20px;
-} */
-
 .footer-logo-span-web {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -327,7 +322,7 @@ img {
   color: var(--iris);
 }
 
-.footer .logo {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
