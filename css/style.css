@@ -322,7 +322,7 @@ img {
   color: var(--iris);
 }
 
-.footer-logo {
+.footer .logo {
   display: inline-block;
   margin-bottom: 16px;
 }
