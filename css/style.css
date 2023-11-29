@@ -400,13 +400,6 @@ img {
   border: 1px solid transparent;
 }
 
-.project-card-list {
-  display: flex;
-  flex-wrap: wrap;
-  row-gap: 48px;
-  column-gap: 24px;
-}
-
 .application-category {
   padding: 32px 16px;
   border: 1px solid var(--cornerflower);
