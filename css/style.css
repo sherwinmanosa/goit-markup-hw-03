@@ -323,10 +323,11 @@ img {
 }
 
 .footer .logo {
-  display: inline-block;
   margin-bottom: 16px;
 }
-
+.footer-logo {
+  display: inline-block;
+}
 .footer-logo-span {
   color: var(--cloud);
 }
